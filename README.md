@@ -15,5 +15,7 @@ Intended to be a demo of the use of the `GameEngine`'s Native API. This demo pro
 
 This projects compiles a runtime binary called `Game.so` and it's loaded using `native_load` by `Start.rb`.
 
+The `Rakefile` implements the build system.
+
 ### Screenshots
 ![ScreenshotA](https://i.imgur.com/Wwx2VFU.png)
